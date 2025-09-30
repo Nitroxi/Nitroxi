@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Abdul Khalid </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->A
 <p align="center">
-  <img src="https://media1.giphy.com/media/3aZNf53Gzx3ibygJ8A/giphy.gif" width="500">
+  <img src="https://media1.giphy.com/media/3aZNf53Gzx3ibygJ8A/giphy.gif" width="800">
 </p>
 
 
