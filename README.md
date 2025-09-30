@@ -1,8 +1,8 @@
 
-<h1 align="center"><b>Hi , I'm Abdul Khalid </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Nitroxi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <img src="https://media1.giphy.com/media/3aZNf53Gzx3ibygJ8A/giphy.gif" width="1000">
+  <img src="https://media4.giphy.com/media/6zgML7mzuFMTHPKoiy/giphy.gif" width="900">
 </p>
 
 
