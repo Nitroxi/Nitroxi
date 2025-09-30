@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Abdul Khalid </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->A
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="[https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnR1aTgzd2RnbWl2YjR1OWMyamVyYnZ5bHBkdHNud2lwbHJobHg1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3aZNf53Gzx3ibygJ8A/giphy.gif)"></a>
+  <img src="https://media1.giphy.com/media/3aZNf53Gzx3ibygJ8A/giphy.gif" width="500">
 </p>
 
 
