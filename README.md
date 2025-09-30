@@ -13,7 +13,7 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZ5ZnE4MTFodzVpd2JtcjJ3Y2tnNjlrcHFoOHo0M3Q1cDR6MGN0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kc0H8FkW9NPO6qnFJ3/giphy.gif" width = 250px></picture>
 
 <br>
 
@@ -107,7 +107,7 @@
 <ul>
 
 <li>
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
+<a href="https://www.linkedin.com/in/nezar-mghari-5027b1327/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
