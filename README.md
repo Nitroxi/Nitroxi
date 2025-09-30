@@ -92,7 +92,7 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGJ3dmN2aXA5MGkzM2g5cDd5Y2E2MDgwZTBza3kyZWkxZWRla3liMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3aJ1UYm1xCB0SNhRTz/giphy.gif" width ="50">
+## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGJ3dmN2aXA5MGkzM2g5cDd5Y2E2MDgwZTBza3kyZWkxZWRla3liMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3aJ1UYm1xCB0SNhRTz/giphy.gif" width ="30"><b> Let's Connect..!</b>
 <br>
 <div align='left'>
 
