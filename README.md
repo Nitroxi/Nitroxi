@@ -70,10 +70,14 @@
 
 <div align="center">
 
-<a href="https://github.com/Nitroxi/" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nitroxi&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nitroxi&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="Nitroxi"/>
-</a>
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <a href="https://github.com/Nitroxi/" target="_blank" style="text-decoration: none;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Nitroxi&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/Nitroxi/" target="_blank" style="text-decoration: none;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nitroxi&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="Top Languages"/>
+  </a>
+</div>
 
 
 </a>
@@ -88,7 +92,7 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGJ3dmN2aXA5MGkzM2g5cDd5Y2E2MDgwZTBza3kyZWkxZWRla3liMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3aJ1UYm1xCB0SNhRTz/giphy.gif" width ="80">
+## <b> Let's Connect..!</b><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGJ3dmN2aXA5MGkzM2g5cDd5Y2E2MDgwZTBza3kyZWkxZWRla3liMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3aJ1UYm1xCB0SNhRTz/giphy.gif" width ="50">
 <br>
 <div align='left'>
 
