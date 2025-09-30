@@ -7,9 +7,6 @@
 
 
 <br>
-
-
-
 	
 ## <picture><img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZ5ZnE4MTFodzVpd2JtcjJ3Y2tnNjlrcHFoOHo0M3Q1cDR6MGN0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kc0H8FkW9NPO6qnFJ3/giphy.gif" width = 50px></picture> **About me**
 
@@ -64,21 +61,15 @@
 
 <br>
 
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
 <div align="center">
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <a href="https://github.com/Nitroxi/" target="_blank" style="text-decoration: none;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Nitroxi&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/Nitroxi/" target="_blank" style="text-decoration: none;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nitroxi&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="Top Languages"/>
-  </a>
-</div>
-
+<a href="https://github.com/Nitroxi/">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nitroxi&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nitroxi&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="Nitroxi"/>
+</a>
 
 </a>
 </div>
