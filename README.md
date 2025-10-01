@@ -14,10 +14,10 @@
 
 <br>
 
-### 🎮 **Apassionat per la tecnologia i els videojocs.**
-### 🕹️ **M'agrada explorar mons virtuals al meu temps lliure.**
-### 🎨 **Dibuixo i faig modelatge 3D quan busco inspiració.**
-### 💡 **Sempre buscant nous projectes i reptes per aprendre més.**
+- 🎮 **Apassionat per la tecnologia i els videojocs.**
+- 🕹️ **M'agrada explorar mons virtuals al meu temps lliure.**
+- 🎨 **Dibuixo i faig modelatge 3D quan busco inspiració.**
+- 💡 **Sempre buscant nous projectes i reptes per aprendre més.**
 
 <br><br>
 
