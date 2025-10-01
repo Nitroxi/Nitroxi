@@ -105,7 +105,7 @@
 <br>
 
 <li>
-<a href="alu.nezar.mghari@mataro.epiaedu.cat" target="_blank">
+<a href="mailto:alu.nezar.mghari@mataro.epiaedu.cat?subject=Hola%20Nezar&body=Quería%20contactarte%20a%20través%20de%20este%20correo.">Enviar email a Nezar</a>
 <img alt="Gmail: alu.nezar.mghari" src="https://img.shields.io/badge/Gmail%3A%20alu.nezar.mghari-red?style=for-the-badge&logo=gmail&logoColor=white&color=red" style="margin-bottom: 5px;" />
 </a>
 </li>
