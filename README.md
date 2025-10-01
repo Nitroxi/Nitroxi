@@ -10,7 +10,7 @@
 	
 ## <picture><img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZ5ZnE4MTFodzVpd2JtcjJ3Y2tnNjlrcHFoOHo0M3Q1cDR6MGN0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kc0H8FkW9NPO6qnFJ3/giphy.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXhpdWZ4MDN6NW41amk1a3h4cWYzMmkwZGJndTRuZHN6em5seXRtbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sjyDSvmfZpzaPZ6mh0/giphy.gif" width = 500px></picture>
+<picture> <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXhpdWZ4MDN6NW41amk1a3h4cWYzMmkwZGJndTRuZHN6em5seXRtbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sjyDSvmfZpzaPZ6mh0/giphy.gif" width = 300px></picture>
 
 <br>
 
