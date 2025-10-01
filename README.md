@@ -34,6 +34,7 @@
     ![C#](https://img.shields.io/badge/C%23%20-%20blue?style=for-the-badge&logo=C&logoColor=white&color=blue)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![Markdown](https://img.shields.io/badge/Markdown-green?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=black)
     
 <br>
 
