@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Nitroxi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHk2eGxjZHRkMXZlM25hYThpN3N6cWI1c2Uyd3VoZnVxN3QxeDBlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2LGmBHjTymC0xzi4GA/giphy.gif" width="900">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzczODk3YTJsbXZ2emE5cjV1cDEzdXZucXZmbGJ3dWh1ajFvaTYybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VrAYTwbhbKpQBjmb9i/giphy.gif" width="900">
 </p>
 
 
