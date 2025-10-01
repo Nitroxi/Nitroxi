@@ -33,8 +33,10 @@
     
     ![C#](https://img.shields.io/badge/C%23%20-%20blue?style=for-the-badge&logo=C&logoColor=white&color=blue)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  	![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/Markdown-green?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=black)
+    ![Markdown](https://img.shields.io/badge/Markdown-green?style=for-the-badge&logo=Markdown&logoColor=black)
+    ![HTML5](https://img.shields.io/badge/HTML5-grey?style=for-the-badge&logo=html5&logoColor=white)
     
 <br>
 
@@ -47,12 +49,15 @@
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   	![Blender](https://img.shields.io/badge/Blender%20-%20orange?style=for-the-badge&logo=Blender&logoColor=white&color=orange)
     ![Unity](https://img.shields.io/badge/Unity%20-%20black?style=for-the-badge&logo=Unity&logoColor=white)
-
+  	![Discord](https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=DISCORD&logoColor=white)
+    ![Figma](https://img.shields.io/badge/figma-%23ff7262?style=for-the-badge&logo=Figma&logoColor=white)
+  
 <br>
 
 - **Extras**:
 
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)  
+    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  	![Computer](https://img.shields.io/badge/Computer-%233B00B9?style=for-the-badge&logo=Internet%20Computer&logoColor=white) 
 
 </p>
 
