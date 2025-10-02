@@ -51,6 +51,8 @@
     ![Unity](https://img.shields.io/badge/Unity%20-%20black?style=for-the-badge&logo=Unity&logoColor=white)
   	![Discord](https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=DISCORD&logoColor=white)
     ![Figma](https://img.shields.io/badge/figma-%23ff7262?style=for-the-badge&logo=Figma&logoColor=white)
+  	![Blockbench](https://img.shields.io/badge/blockbench-%231E93D9?style=for-the-badge&logo=blockbench&logoColor=white)
+  	![Copilot](https://img.shields.io/badge/copilot-%23000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
   
 <br>
 
