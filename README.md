@@ -69,26 +69,6 @@
 -----
 
 <br>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
-<div align="center">
-
-<a href="https://github.com/Nitroxi/">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nitroxi&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450" style="margin-right: 20px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nitroxi&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="Nitroxi"/>
-</a>
-
-</div>
-
-<br>
-<br>
-<br>
-
------
-
-<br>
 <br>
 
 ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGJ3dmN2aXA5MGkzM2g5cDd5Y2E2MDgwZTBza3kyZWkxZWRla3liMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3aJ1UYm1xCB0SNhRTz/giphy.gif" width ="30"><b> Let's Connect..!</b>
